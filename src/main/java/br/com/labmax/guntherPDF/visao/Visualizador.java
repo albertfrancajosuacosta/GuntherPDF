@@ -31,9 +31,7 @@ import javax.swing.DefaultListCellRenderer;
 import javax.swing.DefaultListModel;
 import javax.swing.InputMap;
 import javax.swing.JButton;
-import javax.swing.JCheckBox;
 import javax.swing.JComponent;
-import javax.swing.JDialog;
 import javax.swing.JFileChooser;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
@@ -63,7 +61,6 @@ import br.com.labmax.guntherPDF.util.Configurador;
 public class Visualizador extends JFrame {
 
 	private static final long serialVersionUID = 1L;
-	//private JPanel contentPane;
 	
 	private PDDocument document;
     private PDFRenderer renderer;
@@ -309,7 +306,6 @@ public class Visualizador extends JFrame {
         rightSplit.setDividerSize(Configurador.DIVIDER_SIZE);
         rightSplit.setContinuousLayout(true);
 
-        //rightSplit.setTopComponent(buildSearchPanel());
         rightSplit.setBottomComponent(buildPagesPanel());
 
         rightSplit.setResizeWeight(0.5);

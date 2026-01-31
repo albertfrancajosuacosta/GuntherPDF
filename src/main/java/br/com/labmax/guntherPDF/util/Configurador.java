@@ -20,11 +20,8 @@ public final class Configurador {
     public static final String TXT_SOBRE = "Sobre";
 
     // ===== Textos Sidebar =====
-    public static final String TXT_DISCOVER_TITLE = "Descobrir";
     public static final String TXT_PAGES_TITLE = "Páginas";
-    public static final String TXT_SEARCH_READY_PREFIX = "Preparado para buscar: \"";
-    public static final String TXT_SEARCH_READY_SUFFIX = "\"";
-
+    
     // ===== Status / Dicas =====
     public static final String STATUS_READY = "Pronto";
     public static final String STATUS_OPENING_PREFIX = "Abrindo: ";
