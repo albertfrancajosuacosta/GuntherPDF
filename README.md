@@ -4,7 +4,7 @@
 
 GuntherPDF é uma ferramente simples para visualização de arquivos em PDF. 
 
-Início do projeto: 31/01/2026
+Início do projeto: 31/01/2026.
    
    
 ## Instruções de uso:
