@@ -9,7 +9,7 @@ public final class Configurador {
 
     // ===== App / Títulos =====
     public static final String APP_TITLE = "GuntherPDF — Uma ferramenta simples para visualização de arquivos em PDF.";
-    public static final String TITULO_FOTO_SOBE = "/pdf.png";
+    public static final String TITULO_FOTO_SOBE = "/gimel.png";
     
     // ===== Textos Toolbar =====
     public static final String TXT_OPEN = "Abrir";

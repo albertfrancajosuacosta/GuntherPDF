@@ -9,6 +9,15 @@ Início do projeto: 31/01/2026.
    
 ## Instruções de uso:
 
+### Usando o arquivo executável (.exe)
+
+Faça o <i>download</i> do arquivo GuntherPDF.exe presente na pasta "executavel", e execute-o.
+
+
+### Usando o arquivo java (.jar)
+
+Faça o <i>download</i> do arquivo GuntherPDF.jard presente na pasta "executavel", e execute-o.
+
 
 
 ## Licença BSD-3-Clause
